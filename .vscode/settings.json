@@ -1,4 +1,5 @@
 {
     "github.gitAuthentication": false,
-    "github.gitProtocol": "ssh"
+    "github.gitProtocol": "ssh",
+    "git.alwaysSignOff": true
 }
